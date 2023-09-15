@@ -8,6 +8,7 @@ import java.util.Random;
 import javax.swing.JFrame;
 
 /**
+ * 상은 주석 한글화 작업으로 수정함
  * The {@code Tetris} class is responsible for handling much of the game logic and
  * reading user input.
  * @author Brendan Jones
